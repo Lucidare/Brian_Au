@@ -4,17 +4,15 @@
 | Email: <brian.au.uoft@gmail.com> | Tel: [647-936-6296](tel:6479366296) |
 
 ## Technical Skills
-- Skilled with the languages Swift, Python, Java, Assembly, VBA, C, C++, Matlab
-- Comfortable with multiple development environments (Linux, Wing, Eclipse, Xcode, and Android Studio), databases (mySQL, Core Data) and data formats (JSON, XML)
-- Experienced in object oriented programming and version control (SVN, Git)
-- Adept at Microsoft Office Suite (Word, PowerPoint, Excel)
+- Swift (5 years), Java (7 years), Python, JavaScript, C, C++, MATLAB, Assembly, VBA  
+- Development tools: Linux, Wing, Eclipse, IntelliJ, Xcode, Android Studio  
+- Databases & formats: MySQL, Core Data, JSON, XML  
+- Object-oriented programming and version control (Git, SVN)
 
 ## Interpersonal Skills
-- Effective analytical and problem-solving skills developed from studies in computer science and mathematics
-- Strong oral and written communication skills from interacting with users and teams
-- Fluent in both English and Cantonese
-- Excellent organizational skills and time management skills achieved by prioritizing important projects and
-completing tasks before deadline
+- Fluent in English and Cantonese  
+- Strong communication skills developed through collaboration in fast-paced technical environments  
+- Excellent organizational and time management skills demonstrated through prioritizing high-impact projects and meeting deadlines  
 
 ## Education
 
@@ -23,16 +21,20 @@ completing tasks before deadline
 
     University of Toronto - Scarborough Campus
 
-## Work Experience
+## Professional Experience
+Jan 2019 - Present
+: **African Canadian Christian Society - First Robotics Competition [Team 7712 Umoja](https://www.thebluealliance.com/team/7712) - Lead Coding Mentor / Drive Team Coach**
+- Designed and taught a robotics-focused Java course for high school students
+- Mentored students in robot design, automation, computer vision, control systems, and competitive strategy
 
 Apr 2022 - Dec 2023
 : **[ASICS](https://www.asics.com/ca/en-ca/) \| iOS Developer**
-- Worked on the Runkeeper app with a focus on the Explore tab using a mixture of Storyboards,
-UIKit, and SwiftUI
+- Contributed to the Runkeeper iOS app, focusing on the Explore tab, Races feature, and accessibility improvements using UIKit, SwiftUI, and Storyboards, with adherence to accessibility standards and GDPR data protection requirements  
 
 Jan 2021 - Apr 2022
 : **[Rhino Active](https://red-rhino.com/rhinoactive/) \| iOS Developer**
-- Worked on the following apps: 
+- Developed and maintained multiple iOS applications across healthcare, education, and organizational sectors using Swift, SwiftUI, and Storyboards, with experience in secure data handling and database integration  
+- Worked on apps including: 
     - WesternU EngageFHS
     - LiUNA Local 1059
     - Hublee
@@ -45,7 +47,7 @@ Jan 2021 - Apr 2022
 
 Apr 2019 - Sept 2021
 : **[Weav](https://letsweav.com/) \| iOS Developer**
-- Worked on frontend development for iOS using swift
+- Worked on frontend iOS development using Swift and SwiftUI
 
 Jan 2018 - Apr 2018
 : **Canada Revenue Agency \| Cross Functional Analyst**
@@ -55,17 +57,11 @@ Jan 2018 - Apr 2018
 Jan 2017 - Dec 2017
 :   **Parks Canada \| Mobile Application Developer**
 - Developed “The Rouge”, a mobile app designed for the Rouge National Urban Park, in Swift and
-Java using XCode and Android Studio focusing on the iOS end
+Java using XCode and Android Studio, focusing on the iOS end
 - Worked with multi-language support, databases, local and push notifications with Firebase, and location services through Google Maps
 - [Android](https://play.google.com/store/apps/details?id=com.rouge.Rouge_App) \| [iOS](https://apps.apple.com/ca/app/the-rouge/id1260655022)
 
 ## Other Experience
-
-Jan 2019 - Present
-: **African Canadian Christian Society - First Robotics Competition Team 7712 Umoja - Lead Coding Mentor / Drive Team Coach**
-- Mentored students in writing code, working with sensors, and automation
-- Taught a robotics focused java course for high school student
-- Team won the following awards: Engineering Design Award (2021), Imagery Award in honor of Jack Kamen (2023), District FIRST Impact Award (2024), District Event Finalist (2024), Team Spirit Award (2024), Regional FIRST Impact Award (2024)
 
 Sep 2009 - Sep 2013
 : **Air Cadets - 110 Blackhawk Squadron**
