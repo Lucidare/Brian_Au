@@ -73,7 +73,8 @@ Sep 2009 - Sep 2013
 ## Projects
 Nov 2024
 : **Plugins for Runelite** 
-- Developed with Java, integrated with Runelite API
+- Developed RuneLite plugins in Java using the RuneLite API
+- Captain's Log \| Sole Developer \| [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/captains-log)](https://runelite.net/plugin-hub/show/captains-log)
 - Soul Wars \| Sole Developer \| [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/soul-wars)](https://runelite.net/plugin-hub/show/soul-wars)
 - Chompy Hunter \| Collaborated with  [PJGJ210](https://github.com/PJGJ210), and [Botanophobia](https://github.com/ejedev) \| [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/chompy-hunter)](https://runelite.net/plugin-hub/show/chompy-hunter)
 - Looting Bag \| Collaborated with [pwatts6060](https://github.com/pwatts6060), and [nicole-mcg](https://github.com/nicole-mcg) \| [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/looting-bag-value)](https://runelite.net/plugin-hub/show/looting-bag-value)
